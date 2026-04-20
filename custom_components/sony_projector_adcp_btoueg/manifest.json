@@ -1,6 +1,6 @@
 {
-    "domain": "sony_projector_adcp",
-    "name": "Sony Projector ADCP",
+    "domain": "sony_projector_adcp_btoueg",
+    "name": "Sony Projector ADCP (btoueg)",
     "codeowners": [],
     "config_flow": true,
     "dependencies": [],

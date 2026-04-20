@@ -1,7 +1,7 @@
 {
-  "name": "Sony Projector ADCP",
+  "name": "Sony Projector ADCP (btoueg)",
   "content_in_root": false,
-  "filename": "sony_projector_adcp",
+  "filename": "sony_projector_adcp_btoueg",
   "render_readme": true,
   "domains": ["media_player"],
   "iot_class": "Local Polling",

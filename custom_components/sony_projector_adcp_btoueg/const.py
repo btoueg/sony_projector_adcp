@@ -1,6 +1,6 @@
 """Constants for Sony Projector ADCP integration."""
 
-DOMAIN = "sony_projector_adcp"
+DOMAIN = "sony_projector_adcp_btoueg"
 
 # Configuration
 CONF_HOST = "host"
